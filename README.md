@@ -1,6 +1,6 @@
 ### Hi there, I'm Ahmad Enaya 👋
 
-- :rocket: I’m a software developer based in Singapore
+- :rocket: I’m a software developer based in Singapore 👨🏻‍💻
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=therollingambit&show_icons=true&theme=gotham" />
 
